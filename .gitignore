@@ -1,0 +1,5 @@
+
+# ignore doc/notes.txt, but not doc/server/arch.txt
+tscreader_cm4/HISTORY
+tscreader_cm4/__Previews
+
